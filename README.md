@@ -2,7 +2,7 @@
 Arrange the numbers in ascending order to match the image and win the game
 
 # Technologies
-![image](https://user-images.githubusercontent.com/90736965/216822971-c9de5f5b-e2bd-4336-bc0a-18bd34c8c39d.png)
+<img src= "https://user-images.githubusercontent.com/90736965/216822971-c9de5f5b-e2bd-4336-bc0a-18bd34c8c39d.png" width="100" height="100" />
 
 # Preview
 ![image](https://user-images.githubusercontent.com/90736965/216822779-de9028a4-caef-4681-9ecd-9000a991a960.png)
